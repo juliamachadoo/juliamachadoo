@@ -1,13 +1,14 @@
-# 👋 Oi, eu sou a Julia Machado!
-
-🎓 Sou uma **Analista de Dados Júnior** apaixonada por dados, automação e otimização de processos.  
-🔍 Atualmente trabalho como **Coordenadora Operacional**, desenvolvendo soluções orientadas por dados com **Python, SQL, Power BI e ferramentas de RPA**.
-
-🚀 Adoro criar automações que economizam tempo e trazem mais eficiência para as equipes.  
-💡 Projeto de destaque: desenvolvi um bot que fez web scraping e estruturou dados de 362 startups participantes do **WebSummit 2022**, oferecendo insights estratégicos para o time comercial!
+<div align="center">
+ <h1>👋 Oi, eu sou a Julia Machado!</h1>
+  
+  🎓 Sou uma **Analista de Dados Júnior** apaixonada por dados, automação e otimização de processos.  
+  🔍 Atualmente trabalho como **Coordenadora Operacional**, desenvolvendo soluções orientadas por dados com **Python, SQL, Power BI e ferramentas de RPA**.
+  
+  🚀 Adoro criar automações que economizam tempo e trazem mais eficiência para as equipes.  
+  💡 Projeto de destaque: desenvolvi um bot que fez web scraping e estruturou dados de 362 startups participantes do **WebSummit 2022**, oferecendo insights estratégicos para o time comercial!
+</div>
 
 ## 🛠️ Tecnologias e Ferramentas
-
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 	[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 - **Automação:** RPA, Web Scraping, Pyautogui, Pyperclip  
@@ -32,14 +33,15 @@
 -----
 
 # EN
-# 👋 Hi, I am Julia Machado!
+<div align="center">
+  <h1>👋 Hi, I am Julia Machado!</h1>
 
 🎓 I'm a **Junior Data Analyst** passionate about data, automation, and process optimization.  
 🔍 Currently working as an **Operations Coordinator** while developing data-driven solutions using **Python, SQL, Power BI, and RPA tools**.
 
 🚀 I love creating automations to save time and bring efficiency to teams.  
 💡 Highlight project: Built a bot that scraped and structured data from 362 startups at **WebSummit 2022**, providing strategic insights to the commercial team!
-
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
