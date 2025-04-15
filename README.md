@@ -52,15 +52,15 @@
 
 ## 📊 Projects
 
-- [WebSummit Scraper Bot](https://github.com/juliamachadoo/BotWebSummit)
-- [Análise de Vendas de uma Vending Machine](https://github.com/juliamachadoo/analise-dados-vending-machine)
-- [Análise de Vendas de uma Rede de Lojas](https://github.com/juliamachadoo/analise-dados-vendas-01)
-- Outros projetos em breve...
-
+- [WebSummit Scraper Bot](https://github.com/juliamachadoo/BotWebSummit)  
+- [Sales Analysis of a Vending Machine](https://github.com/juliamachadoo/analise-dados-vending-machine)  
+- [Sales Analysis of a Retail Chain](https://github.com/juliamachadoo/analise-dados-vendas-01)  
+- More projects coming soon...
 
 ## 🌱 Currently Learning
-- Visualização de dados avançada com Power BI
-- 
+
+- Advanced data visualization with Power BI
+
 
 
 ## 📫 Let's Connect
