@@ -74,11 +74,9 @@
 
 <!-- Optional -->
 <!-- Contador de Visitantes -->
-![Visitor Count](https://profile-counter.glitch.me/{juliamachadoo}/count.svg)
 <div align="center">
   <br><p align="center"><b>Visitors</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{juliamachadoo}/count.svg" /></p> 
- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+  <p align="center"><img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /></p> 
   <br>
 </div>
 
